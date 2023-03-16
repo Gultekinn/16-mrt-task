@@ -1,0 +1,30 @@
+.container{
+    background-color: rgb(9, 143, 143);
+}
+.CLRR{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 60px;
+}
+
+  
+.border-primary{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 250px;
+    /* background-color: rgb(91, 103, 113);
+    border: solid white; */
+    width: 70%;
+    height: 10%;
+   
+
+
+}
+.rdd1{
+    background-color: rgb(0, 11, 11);
+    color: aliceblue;
+}
+.rdd2{
+    background-color: rgb(7, 115, 115);
+    color: aliceblue;
+}

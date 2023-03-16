@@ -1,0 +1,47 @@
+.brdd{
+    width: 800px;
+height: 600px;
+border: 1px solid rgb(224, 151, 23);
+margin-left: 350px;
+margin-top: 100px;
+background-color:rgb(224, 151, 23) ;
+
+}
+
+.sty{
+ width: 740px;
+ height: 530px;
+ border: 1px solid rgb(228, 222, 33);
+margin-left: 33px;
+ margin-top: 22px;
+ background-color: rgb(228, 222, 33);
+}   
+.ndn{
+ width: 650px;
+ border: 1px solid rgb(52, 255, 113);
+ height: 460px;
+ margin-left:45px ;
+ margin-top:15px ;
+ background-color: rgb(52, 255, 113);
+}
+
+.content{
+ width: 565px;
+ border: 1px solid rgb(18, 213, 248);
+ height: 400px;
+ margin-left:49px ;
+ margin-top:15px ;
+ background-color: rgb(18, 213, 248);
+}
+
+.pht{
+ width: 565px;
+ height:300px ;
+margin-bottom: 20px;
+ border: 1px solid rgb(143, 102, 20); 
+background-repeat: no-repeat;
+ margin-top: 25px;
+ 
+background-image: url(https://images.unsplash.com/photo-1678257355149-6eda1755b1a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0OXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60); 
+background-size: cover;
+}
